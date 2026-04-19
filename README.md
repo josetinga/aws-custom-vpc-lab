@@ -38,3 +38,20 @@ Successfully deployed a web server inside a custom VPC and verified internet con
 - Subnet segmentation and routing behavior
 - Internet Gateway and route table relationships
 - Real-world troubleshooting of SSH and connectivity issues
+
+## Architecture Diagram
+![VPC Diagram](./images/vpc-diagram.png)
+
+## Screenshots
+
+### VPC Resource Map
+![VPC](./images/vpcresourcemap.png)
+
+### Subnet Configuration
+![Subnet](./images/publicsubnet.png)
+
+### Route Table
+![Route Table](./images/routetable.png)
+
+### EC2 Instance
+![EC2](./images/instancerunning.png)
