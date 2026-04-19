@@ -48,7 +48,7 @@ Successfully deployed a web server inside a custom VPC and verified internet con
 ![VPC](./images/vpcresourcemap.png)
 
 ### Subnet Configuration
-![Subnet](./images/publicsubnet.png)
+![Subnet](./images/publicsubet.png)
 
 ### Route Table
 ![Route Table](./images/routetable.png)
